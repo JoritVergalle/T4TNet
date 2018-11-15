@@ -1,0 +1,7 @@
+C:\Users\jorit\Documents\projecten\T4T_NET\T4T_NET\bin\Debug\T4T_NET.exe.config
+C:\Users\jorit\Documents\projecten\T4T_NET\T4T_NET\bin\Debug\T4T_NET.exe
+C:\Users\jorit\Documents\projecten\T4T_NET\T4T_NET\bin\Debug\T4T_NET.pdb
+C:\Users\jorit\Documents\projecten\T4T_NET\T4T_NET\obj\Debug\T4T_NET.csprojAssemblyReference.cache
+C:\Users\jorit\Documents\projecten\T4T_NET\T4T_NET\obj\Debug\T4T_NET.csproj.CoreCompileInputs.cache
+C:\Users\jorit\Documents\projecten\T4T_NET\T4T_NET\obj\Debug\T4T_NET.exe
+C:\Users\jorit\Documents\projecten\T4T_NET\T4T_NET\obj\Debug\T4T_NET.pdb
